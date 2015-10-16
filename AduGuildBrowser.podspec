@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "AduGuildBrowser/**/*.{h,m}"
+  s.source_files  = "AduGuildBrowser/tttttt/*.{h,m}"
   #s.exclude_files = "AduGuildBrowser/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
